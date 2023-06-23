@@ -1,0 +1,4 @@
+{
+"accions": ["leder.utilizacion.AccionUno", "leder.utilizacion.AccionDos", "leder.utilizacion.AccionTres"],
+"max-threads": 2
+}
